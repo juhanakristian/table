@@ -2395,18 +2395,6 @@
   resolved "https://registry.yarnpkg.com/@tanstack/react-table/-/react-table-8.0.0-alpha.1.tgz#47ab73a3872b3fc10468259993f1a3121aa327c8"
   integrity sha512-0fwp0ihCrvAhA3KWXdWMA3RL9uw3M/UjUvEVkj9APaBt1Q0fJmBTQfzAg3590MraLjRpiiX9/YsRLKj8Dv5b1w==
 
-"@tanstack/table-core@8.0.0-beta.7":
-  version "8.0.0-beta.7"
-  resolved "https://registry.yarnpkg.com/@tanstack/table-core/-/table-core-8.0.0-beta.7.tgz#aeba79221d7f52a81ce363034b359fdf9cf4cbb7"
-  integrity sha512-bE8o+cLhKGLj9OnlfsAiUPMPpTOcmQ/Rj176ybO1nGmUsCdOdaHBScjNskYEuV++sDkpkvgP602wv8ZJ2Td18Q==
-
-"@tanstack/vue-table@8.0.0-beta.7":
-  version "8.0.0-beta.7"
-  resolved "https://registry.yarnpkg.com/@tanstack/vue-table/-/vue-table-8.0.0-beta.7.tgz#c42a4a0cf5e9fae0834f0669362d1e0a508ff8ea"
-  integrity sha512-CSR2rGFxkoqo1riC2muwuGv+8ioRAceVFv9bwBDFs3Q/XxlVROGWkHguDObmc8oVOWNevMat+uIjGFpCpIE+8g==
-  dependencies:
-    "@tanstack/table-core" "8.0.0-beta.7"
-
 "@testing-library/dom@^8.0.0":
   version "8.13.0"
   resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-8.13.0.tgz#bc00bdd64c7d8b40841e27a70211399ad3af46f5"
